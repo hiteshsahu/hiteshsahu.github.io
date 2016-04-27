@@ -1,2 +1,5 @@
 # hiteshsahu.github.io
-Personal SIte
+
+This project demonstrates how we can use GitHub to host our personal website/Blogs/online Portfolio. COmplete Guide can be found here
+
+https://pages.github.com/
